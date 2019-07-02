@@ -1,0 +1,60 @@
+.entete {
+	display: flex;
+	justify-content: space-around;
+	flex-direction: row-reverse;
+	min-width: 110px;
+	padding-left: 89%;
+    padding-right: 7%;
+
+}
+.conteneur {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	margin: auto; 
+	height: 398px;
+	width: 1111px;
+	padding: 0px 0px 35px;
+}
+
+input {
+	justify-content: center;
+	width: 400px;
+	background: #F2F2F2;
+}
+.logo {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	height: 272px;
+	width: 201px;
+	padding: 109px 0px 0px;
+}
+
+.buttons {
+	justify-content: center;
+	padding: 30px;
+	margin: 11px 4px;
+}
+.France {
+	justify-content: flex-start;
+	padding-left: 27px;
+}
+.footer1 {
+	display: flex;
+	justify-content: space-around;
+	flex-direction: row;
+	max-width: 35%;
+	padding-left: 0%;
+    padding-right: 30%;
+}
+.footer2 {
+	display: flex;
+	justify-content: space-around;
+	flex-direction: row;
+	max-width: 35%;
+	padding-left: 70%;
+    padding-right: 0%;
+}
